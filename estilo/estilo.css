@@ -107,12 +107,18 @@ h2{
 .div-missao{
     width: 45%;
     padding: 20px;
-  
+}
+.missão a{
+    font-size: 10px;
+    text-decoration: none;
+    color: #291a03;
+    
 }
 .img-missao{
-    width: 400px;
-      
+    width: 400px;  
+    margin: 0 0 20px 0;   
 }
+
 
 /*Rodapé*/
 footer{
